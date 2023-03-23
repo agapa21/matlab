@@ -1,0 +1,7 @@
+function nargout=f(n)
+
+for i=1:nargout
+    l(i)=n^
+end
+
+end
